@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "copyId": "UT999-XXXXXX",
+        "token": "SOME_AUTH_TOKEN_1",
+        "active": true
+      },
+      {
+        "copyId": "UT999-XXXXXX",
+        "token": "SOME_AUTH_TOKEN_2",
+        "active": false
+      }
+    ]
+  }
